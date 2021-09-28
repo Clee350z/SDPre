@@ -1,0 +1,7 @@
+public class Objective2Lab1 {
+public static main(String [] args){
+String hello = "Hello World!";
+system.out.println(hello);
+
+}
+}
